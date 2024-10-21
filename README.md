@@ -34,7 +34,7 @@ Virtual environment (recommended)
 
 INSTALLATION:
 Clone the repository
-git clone https://https://github.com/Hmm-1224/fraud-detection-in-atm-withdrawal.git
+git clone https://github.com/Hmm-1224/fraud-detection-in-atm-withdrawal.git
 cd fraud-detection-in-atm-withdrawal
 Set up a virtual environment:
 
